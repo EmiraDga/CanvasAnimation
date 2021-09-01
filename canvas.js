@@ -43,19 +43,36 @@
   
   */
 
- function Circle(x, y) {
+ function Circle(x, y, dx, dy, radius) {
      this.x = x;
      this.y = y;
+     this.dx = dx;
+     this.dy = dy;
+     this.radius = radius;
 
      this.draw = function() {
          c.beginPath();
-         c.arc(x, y, 30, radius, 0, Math.PI * 2, false)
+         c.arc(this.x, this.y, 30, this.radius, 0, Math.PI * 2, false)
          c.strokeStyle = "blue";
          c.stroke();
      }
+
+     this.update = function() {
+         if (this.x + this.radius > innerWidth || this.x - this.radius < 0) {
+             this.dx = -this.dx;
+         }
+         if (this.y + this.radius > innerHeight || this.y - this.radius < 0) {
+             this.dy = -this.dy;
+         }
+
+
+         this.x += this.dx
+         this.y += this.dy
+     }
+
  }
 
- var circle = new Circle(200, 200);
+ var circle = new Circle(200, 200, 3, 3, 30);
  var y = Math.random() * innerHeight;
  var x = Math.random() * innerWidth;
  var dx = (Math.random() + 0.5) * 8
@@ -66,6 +83,7 @@
      requestAnimationFrame(animate);
      c.clearRect(0, 0, canvas.width, canvas.height);
      circle.draw()
+     circle.update()
 
 
      c.beginPath();
