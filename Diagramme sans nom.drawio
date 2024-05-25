@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T17:18:57.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="VXHLEuefC0EIBKMWE17e" version="24.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-25T18:38:18.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Hs0rffsm1aNW_JlO43T3" version="24.4.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="955" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="206" dy="111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,19 +8,19 @@
           <mxGeometry x="70" y="370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kU4CN8tsTLFvWs0AdhcK-1" value="Surveiller l&#39;état des&amp;nbsp; conteneurs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="140" width="140" height="80" as="geometry" />
+          <mxGeometry x="255" y="120" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kU4CN8tsTLFvWs0AdhcK-2" value="Surveiller pression entrée/sortie réseaux" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="236" y="260" width="127" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kU4CN8tsTLFvWs0AdhcK-3" value="Surveiller l&#39;usage RAM des conteneurs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="395" y="260" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kU4CN8tsTLFvWs0AdhcK-4" value="Surveiller l&#39;usage CPU des conteneurs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="250" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kU4CN8tsTLFvWs0AdhcK-5" value="Créer des dashboards de monitoring dans Grafana" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="268" y="360" width="145" height="80" as="geometry" />
+          <mxGeometry x="243" y="360" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kU4CN8tsTLFvWs0AdhcK-7" value="Consulter les alerts dans e-mail" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="243" y="680" width="120" height="80" as="geometry" />
@@ -50,6 +50,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="370" as="sourcePoint" />
             <mxPoint x="278" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kU4CN8tsTLFvWs0AdhcK-15" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kU4CN8tsTLFvWs0AdhcK-2" target="kU4CN8tsTLFvWs0AdhcK-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="332" y="689" as="sourcePoint" />
+            <mxPoint x="334" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kU4CN8tsTLFvWs0AdhcK-16" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kU4CN8tsTLFvWs0AdhcK-3" target="kU4CN8tsTLFvWs0AdhcK-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="306" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kU4CN8tsTLFvWs0AdhcK-17" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.961;entryY=0.688;entryDx=0;entryDy=0;exitX=0.264;exitY=0.108;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kU4CN8tsTLFvWs0AdhcK-4" target="kU4CN8tsTLFvWs0AdhcK-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="446" y="274" as="sourcePoint" />
+            <mxPoint x="384" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
