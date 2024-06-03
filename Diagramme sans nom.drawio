@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T10:11:55.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="XCu8f-yglDhn4kxjLv8A" version="24.4.10" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-06-03T10:10:14.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="3T2Yht0iSlXmVjU77fMf" version="24.4.13" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1615" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1075,37 +1075,57 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-10" id="ifwkbry3l53Ca9coO5kt">
-    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tp0JhPdcTWD4EahXeYCj-1" value="Créer Dockerfile" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="400" width="120" height="80" as="geometry" />
+        <mxCell id="tp0JhPdcTWD4EahXeYCj-1" value="Ajouter des stacks" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tp0JhPdcTWD4EahXeYCj-2" value="Générer certif SSL/TLS" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="260" width="120" height="80" as="geometry" />
+        <mxCell id="tp0JhPdcTWD4EahXeYCj-3" value="Gérer les stacks" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="505" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tp0JhPdcTWD4EahXeYCj-3" value="Ecrire ScriptsAnsible" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="520" width="120" height="80" as="geometry" />
+        <mxCell id="tp0JhPdcTWD4EahXeYCj-4" value="Déployer les services " style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="910" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tp0JhPdcTWD4EahXeYCj-4" value="Ecrire JenkisFiles" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="870" width="120" height="80" as="geometry" />
+        <mxCell id="tp0JhPdcTWD4EahXeYCj-5" value="Gérer les contenurs déployés sur le serveur" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="660" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tp0JhPdcTWD4EahXeYCj-5" value="Déployer lesoutils nécessaires" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="640" width="120" height="80" as="geometry" />
+        <mxCell id="tp0JhPdcTWD4EahXeYCj-6" value="Mettre à jour des stacks" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="425" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tp0JhPdcTWD4EahXeYCj-6" value="Déployer Elastic Stack" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="610" width="120" height="80" as="geometry" />
+        <mxCell id="tp0JhPdcTWD4EahXeYCj-7" value="Supprimer des stacks" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tp0JhPdcTWD4EahXeYCj-7" value="Déployer Portainer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="720" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tp0JhPdcTWD4EahXeYCj-8" value="Déployer Grafana et Prometheus" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="830" width="120" height="80" as="geometry" />
+        <mxCell id="tp0JhPdcTWD4EahXeYCj-8" value="Gérer&amp;nbsp; les services" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="790" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tp0JhPdcTWD4EahXeYCj-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="640" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fKexpNCC9fh-QeQn1qPF-1" value="Supprimer les services " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fKexpNCC9fh-QeQn1qPF-2" value="Modifier et mettre à jour les services" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fKexpNCC9fh-QeQn1qPF-3" value="&lt;div&gt;Gérer les rôles&amp;nbsp;&lt;/div&gt;&lt;div&gt;et les autorisations pour les conteneurs&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="660" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fKexpNCC9fh-QeQn1qPF-5" value="&lt;br&gt;Modifier les autorisations &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fKexpNCC9fh-QeQn1qPF-6" value="Gérer les autorisations au niveau les développeurs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cIpuIlCFmkHpUXR9cP0P" name="Page-13">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
