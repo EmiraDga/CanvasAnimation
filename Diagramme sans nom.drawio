@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T22:29:37.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="UrVrBvZFbqHjmWax-PvT" version="24.4.13" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-06-03T22:32:41.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="PGdO6wKIGCj-aa24_LiD" version="24.4.13" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1500" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -931,10 +931,22 @@
           <mxGeometry x="290" y="350" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GLrs2jYPHhT5eqzF21Zr-2" value="Gérer l&#39;infrastructure CI/CD" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="370" width="190" height="70" as="geometry" />
+          <mxGeometry x="440" y="370" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GLrs2jYPHhT5eqzF21Zr-4" value="&lt;div&gt;Configurer et administrer&amp;nbsp;&lt;/div&gt;&lt;div&gt;l&#39;outil CI/CD&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="365" width="190" height="70" as="geometry" />
+          <mxGeometry x="440" y="250" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GLrs2jYPHhT5eqzF21Zr-5" value="Créer les jenkinsfiles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="480" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GLrs2jYPHhT5eqzF21Zr-6" value="Gérer les accès" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GLrs2jYPHhT5eqzF21Zr-7" value="Intégrer des outils tiers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GLrs2jYPHhT5eqzF21Zr-8" value="S&#39;authentifier à Jenkins" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="370" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
