@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T21:09:03.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="9pUbOqHBk65Qh5WqvTBn" version="24.4.13" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-06-03T21:09:39.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="VGSHWYoZZ0OLCIT4xzmq" version="24.4.13" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1615" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1143,7 +1143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cIpuIlCFmkHpUXR9cP0P" name="Page-13">
-    <mxGraphModel dx="875" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="618" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1151,7 +1151,7 @@
           <mxGeometry x="367.5" y="1060" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7wAQO-b5DJ75hmvn7w5l-8" value="Kibana" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="960" width="160" height="80" as="geometry" />
+          <mxGeometry x="640" y="970" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7wAQO-b5DJ75hmvn7w5l-10" value="Consulter les journaux filtrés " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="870" width="200" height="70" as="geometry" />
