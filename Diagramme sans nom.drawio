@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T10:22:57.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="4LpSSTDU1VRVN4FuLHF7" version="24.4.13" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-06-03T13:17:13.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="YwWrY1ngv_VD9ux8qDZh" version="24.4.13" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1615" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1075,7 +1075,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-10" id="ifwkbry3l53Ca9coO5kt">
-    <mxGraphModel dx="2100" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1088,7 +1088,7 @@
         <mxCell id="tp0JhPdcTWD4EahXeYCj-4" value="Déployer les services " style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="1000" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tp0JhPdcTWD4EahXeYCj-5" value="Gérer les contenurs déployés sur le serveur" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tp0JhPdcTWD4EahXeYCj-5" value="Gérer les services déployés sur le cluster" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="660" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tp0JhPdcTWD4EahXeYCj-6" value="Mettre à jour des stacks" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1109,7 +1109,7 @@
         <mxCell id="fKexpNCC9fh-QeQn1qPF-2" value="Modifier et mettre à jour les services" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="907.5" y="1000" width="162.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fKexpNCC9fh-QeQn1qPF-3" value="&lt;div&gt;Gérer les rôles&amp;nbsp;&lt;/div&gt;&lt;div&gt;et les autorisations pour les conteneurs&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fKexpNCC9fh-QeQn1qPF-3" value="&lt;div&gt;Gérer les rôles&amp;nbsp;&lt;/div&gt;&lt;div&gt;et les autorisations pour les clusters&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="660" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fKexpNCC9fh-QeQn1qPF-5" value="&lt;br&gt;Modifier les autorisations &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
