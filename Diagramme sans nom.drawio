@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T21:38:46.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="lkEqnLQsB2kz0IqwRyL_" version="24.4.13" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-06-04T21:40:07.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="9p2pKeo-Yrg7u9f5Rb0C" version="24.4.13" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1500" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -923,14 +923,14 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-4" id="d_EvPBmB3Yqm6xSZrWrv">
-    <mxGraphModel dx="1500" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GLrs2jYPHhT5eqzF21Zr-1" value="&amp;nbsp; Intégrateur devops" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="320" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="GLrs2jYPHhT5eqzF21Zr-2" value="Créer les scripts ansible de deploiment" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GLrs2jYPHhT5eqzF21Zr-2" value="Créer les scripts ansible de deploiement" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="590" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GLrs2jYPHhT5eqzF21Zr-4" value="&lt;div&gt;Configurer et administrer&amp;nbsp;&lt;/div&gt;&lt;div&gt;l&#39;outil CI/CD&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
